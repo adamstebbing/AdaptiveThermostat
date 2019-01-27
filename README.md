@@ -1,2 +1,2 @@
 # AdaptiveThermostat
-Thermostat state machine
+Thermostat state machine using mbed to interface with other hardware compontents.
